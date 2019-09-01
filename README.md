@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
+It is a copy of the weather Javascript project in <a href="https://github.com/ahmed-git/weather">ahmed-git/weather repository</a>, but with angular techniques. Don't forget to create an account, if you dont' have one, at <a href="https://www.weatherbit.io/api">weatherbit API</a> and use the key provided in src/app/weather.service.ts.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
