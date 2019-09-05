@@ -3,7 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { WeatherData } from './weather-data';
 
-const apiKey = "key";
+const apiKey = "08395cda90b14fc7ba471ce0020c4707";
 const apiUrl = "https://api.weatherbit.io/v2.0/forecast/daily";
 
 @Injectable({
